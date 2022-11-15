@@ -7,13 +7,15 @@ feeds:
 packages:
   - luci-app-mwan3
   - luci-app-adguardhome
+  - luci-app-aliyundrive-webdav
+  - luci-app-bypass
   - luci-app-ssr-plus
   - luci-app-openclash
-  - luci-app-passwall
   - luci-app-store
   - luci-app-unblockneteasemusic
-  - luci-app-aliyundrive-webdav
+
   - luci-app-pushbot
+  - luci-app-bypass
 
 
 
