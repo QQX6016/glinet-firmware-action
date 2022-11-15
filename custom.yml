@@ -27,3 +27,10 @@ diffconfig: |
   CONFIG_LUCI_LANG_zh_Hans=y
   CONFIG_BUSYBOX_CUSTOM=y
   CONFIG_BUSYBOX_CONFIG_FEATURE_FLOAT_SLEEP=y
+  CONFIG_PACKAGE_luci-app-adguardhome=y
+  CONFIG_PACKAGE_luci-app-aliyundrive-webdav=y
+  CONFIG_PACKAGE_luci-app-bypass=y
+  CONFIG_PACKAGE_luci-app-ssr-plus=y
+  CONFIG_PACKAGE_luci-app-openclash=y
+  CONFIG_PACKAGE_luci-app-store=y
+  CONFIG_PACKAGE_luci-app-unblockneteasemusic=y
