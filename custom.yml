@@ -11,10 +11,6 @@ packages:
   - luci-app-bypass
   - luci-app-ssr-plus
   - luci-app-openclash
-  - luci-app-store
-  - luci-app-unblockneteasemusic
-
-  - luci-app-pushbot
   - luci-app-bypass
 
 
